@@ -1,1 +1,1 @@
-This is the source code for the YouTube alternative "glomble"
+A powerful YouTube clone powered by the code that runs Glomble.
